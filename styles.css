@@ -1,0 +1,23 @@
+body{
+  padding: 25px;
+  background-color: #B1C0C2;
+}
+
+.desription {
+	color: #111;
+	text-align: center;
+}
+.profile{
+  background-color: #ADD8E6;
+  .title {
+	color: #00008B;
+	
+}
+}
+.album{
+  padding-bottom: 40px;
+}
+
+.album2{
+  padding-bottom: 40px; 
+}
